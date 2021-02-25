@@ -1,7 +1,7 @@
 # BRIVA-API-Codeigniter
 BRI Virtual Account API 
 
-#Create ClientID and ClientSecret 
+# Create ClientID and ClientSecret 
 
 ## Sign Up
 here : https://developers.bri.co.id/user/register 
