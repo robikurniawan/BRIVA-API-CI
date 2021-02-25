@@ -4,11 +4,10 @@ BRI Virtual Account API
 How to create ClientID and ClientSecret 
 
 ## Sign Up
-link : https://developers.bri.co.id/user/register 
+here : https://developers.bri.co.id/user/register 
 
 ## Create Apps
-after register you can access and create apps 
-link : https://developers.bri.co.id/user/me/apps 
+after register you can access and create apps here : https://developers.bri.co.id/user/me/apps 
 
 ## Success
 you'll get clientID and clientSecret.
